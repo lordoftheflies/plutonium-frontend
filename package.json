@@ -1,8 +1,13 @@
 {
   "name": "plutonium-frontend",
+  "description": "Frontend scaffold.",
   "version": "0.0.1",
   "contributors": [
-    "László Hegedűs"
+    {
+      "url": "https://github.com/lordoftheflies",
+      "name": "László Hegedűs",
+      "email": "laszlo.hegedus@cherubits.hu"
+    }
   ],
   "license": "Cherubits-1.0-LICENSE",
   "repository": {
