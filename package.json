@@ -1,11 +1,14 @@
 {
-  "name": "pwa-starter-kit",
-  "version": "0.9.0",
+  "name": "plutonium-frontend",
+  "version": "0.0.1",
   "contributors": [
-    "The Polymer Authors"
+    "László Hegedűs"
   ],
-  "license": "BSD-3-Clause",
-  "repository": "Polymer/pwa-starter-kit",
+  "license": "Cherubits-1.0-LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lordoftheflies/plutonium-frontend.git"
+  },
   "scripts": {
     "start": "gulp serve",
     "start:webpack": "webpack-dev-server --open --mode development",
